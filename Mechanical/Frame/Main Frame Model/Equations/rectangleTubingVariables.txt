@@ -1,0 +1,4 @@
+"tubeMainWidth" = 76.2mm
+"tubeSecondWidth" = 25.4mm
+"tubeThickness" = 3.048mm
+"halfMainWidthOfTubing" = ("tubeMainWidth"/2)
