@@ -1,0 +1,18 @@
+[StartTime]
+Main Frame-Static 1.MFC=6s
+[SolverState]
+Main Frame-Static 1.MFC=2
+[MainFrame]
+Main Frame-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+Main Frame-Static 1.MFC=No
+[SolverType]
+Main Frame-Static 1.MFC=Linear Analysis
+[StudyType]
+Main Frame-Static 1.MFC=0
+[StudyName]
+Main Frame-Static 1.MFC=Static 1
+[Solver]
+Main Frame-Static 1.MFC=Iterative
+[Dynamic]
+Main Frame-Static 1.MFC=0
