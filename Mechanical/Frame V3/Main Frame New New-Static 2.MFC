@@ -1,0 +1,16 @@
+[StartTime]
+Main Frame New New-Static 2.MFC=1s
+[SolverState]
+Main Frame New New-Static 2.MFC=2
+[MainFrame]
+Main Frame New New-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Main Frame New New-Static 2.MFC=No
+[SolverType]
+Main Frame New New-Static 2.MFC=Linear Analysis
+[StudyType]
+Main Frame New New-Static 2.MFC=0
+[StudyName]
+Main Frame New New-Static 2.MFC=Static 2
+[Solver]
+Main Frame New New-Static 2.MFC=Sparse
