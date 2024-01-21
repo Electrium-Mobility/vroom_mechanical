@@ -1,0 +1,10 @@
+"A1" = 0mm
+"A2A3" = 200mm
+"A4A5" = 503mm
+"A6A7B11" = 305.4mm
+"B1B2" = 0mm
+"B3B4" = 280mm
+"B5B6" = 445.4mm
+"B7B8" = 500mm
+"B9B10" = 0mm
+"BatteryBoxLength" = 445.45mm
