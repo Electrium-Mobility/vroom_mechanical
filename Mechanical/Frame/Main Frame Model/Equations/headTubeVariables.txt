@@ -1,3 +1,0 @@
-"tubeDiameter" = 76.2mm
-"tubeThickness" = 3.175mm
-"tubeLength" = 203.2
